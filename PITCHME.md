@@ -129,7 +129,7 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 
 +++
 
-![Profile Dokter](/assets/image/NO FRAME.png)
+![Profile Dokter](/assets/image/press-release1.png)
 
 <span style="font-size:0.6em; color:gray">Press Release</span>
 
