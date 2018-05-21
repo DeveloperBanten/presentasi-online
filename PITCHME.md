@@ -10,7 +10,7 @@
 ## <span class="gold">JAWARA e-Gov</span>
 
 - JAWARA e-Gov adalah aplikasi portal Pemerintah Provinsi Banten yang memudahkan masyarakat dalam mencari informasi. |
-- Aplikasi ini dilengkapi dengan informasi mengenai aplikasi-aplikasi yang terdapat di <span class="gold">Pe</span>merintahan Provinsi Banten. |
+- Aplikasi ini dilengkapi dengan informasi mengenai aplikasi-aplikasi yang terdapat di Pemerintahan Provinsi Banten. |
 
 ---
 
@@ -19,7 +19,7 @@
 ## <span class="gold">JAWARA e-Gov</span> Features
 - Mudah digunakan oleh masyarakat banyak. |
 - Tampilan yang menarik. |
-- Memudahkan dalam mencari informasi di <span class="gold">Pe</span>merintahan Provinsi Banten. |
+- Memudahkan dalam mencari informasi di Pemerintahan Provinsi Banten. |
 
 ---
 
