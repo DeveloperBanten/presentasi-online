@@ -49,7 +49,7 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 
 +++
 
-![Tampilan Home1](/assets/image/awal-jawara-egov.png)
+![Tampilan Home1](/assets/image/awal-jawara-egov1.png)
 
 <span style="font-size:0.6em; color:gray">Lajut.</span>
 @fa[arrow-right]
@@ -65,7 +65,7 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 
 +++
 
-![Tampilan Menu Profil Banten](/assets/image/profil-provinsi.png)
+![Tampilan Menu Profil Banten](/assets/image/profil-provinsi1.png)
 
 <span style="font-size:0.6em; color:gray">Profil Provinsi.</span>
 @fa[arrow-right]
@@ -81,7 +81,7 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 
 +++
 
-![Tampilan Lihat Rumah Sakit](/assets/image/profil-pemerintah.png)
+![Tampilan Lihat Rumah Sakit](/assets/image/profil-pemerintah1.png)
 
 <span style="font-size:0.6em; color:gray">Profil Pemerintah</span>
 @fa[arrow-right]
@@ -97,7 +97,7 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 
 +++
 
-![Tampilan Menu Layanan Informasi](/assets/image/layanan-informasi.png)
+![Tampilan Menu Layanan Informasi](/assets/image/layanan-informasi1.png)
 
 <span style="font-size:0.6em; color:gray">Layanan Informasi</span>
 @fa[arrow-right]
@@ -113,7 +113,7 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 
 +++
 
-![Tampilan menu Informasi Pembangunan Daerah](/assets/image/informasi-pembangunan-daerah.png)
+![Tampilan menu Informasi Pembangunan Daerah](/assets/image/informasi-pembangunan-daerah1.png)
 
 <span style="font-size:0.6em; color:gray">Informasi Pembangunan Daerah</span>
 @fa[arrow-right]
