@@ -135,7 +135,7 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 
 ---
 
-### SEKIAN
-# Dinas <span class="gold">KominfoST</span>
-## &
-## Developer<span class="gold">Banten</span>
+#### SEKIAN
+## Dinas <span class="gold">KominfoST</span>
+### &
+### Developer<span class="gold">Banten</span>
