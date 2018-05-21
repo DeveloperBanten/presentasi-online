@@ -136,6 +136,6 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 ---
 
 #### SEKIAN
-## Dinas <span class="gold">Komunikasi Informatika Statistik </span>
-### dan
-### <span class="gold">Persandian</span>
+## Dinas <span class="gold">Komunikasi Informatika </span>
+### Statistik
+### dan <span class="gold">Persandian</span>
