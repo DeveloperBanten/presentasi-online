@@ -1,14 +1,3 @@
-@title[Cover]
-
-# Dinas <span class="gold">KominfoST</span>
-## &
-## Developer<span class="gold">Banten</span>
-<br>
-<span class="aside">Dengan Bangga Mempersembahkan</span>
-
-
----
-
 @title[Introduction]
 
 ### Portal Pemerintahan Provinsi Banten
@@ -21,7 +10,7 @@
 ## <span class="gold">JAWARA e-Gov</span>
 
 - JAWARA e-Gov adalah aplikasi portal Pemerintah Provinsi Banten yang memudahkan masyarakat dalam mencari informasi. |
-- Aplikasi ini dilengkapi dengan informasi mengenai aplikasi-aplikasi yang terdapat di Pemerrintahan Provinsi Banten. |
+- Aplikasi ini dilengkapi dengan informasi mengenai aplikasi-aplikasi yang terdapat di <span class="gold">Pe</span>merintahan Provinsi Banten. |
 
 ---
 
@@ -30,7 +19,7 @@
 ## <span class="gold">JAWARA e-Gov</span> Features
 - Mudah digunakan oleh masyarakat banyak. |
 - Tampilan yang menarik. |
-- Memudahkan dalam mencari informasi di Pemerintahan Provinsi Banten. |
+- Memudahkan dalam mencari informasi di <span class="gold">Pe</span>merintahan Provinsi Banten. |
 
 ---
 
@@ -49,7 +38,7 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 <span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
 @fa[arrow-down]
 
----
++++
 
 @title[Tampilan Dashboard JAWARA e-Gov]
 
@@ -64,7 +53,6 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 
 <span style="font-size:0.6em; color:gray">Lajut.</span>
 @fa[arrow-right]
-
 
 ---
 
@@ -81,7 +69,6 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 
 <span style="font-size:0.6em; color:gray">Profil Provinsi.</span>
 @fa[arrow-right]
-
 
 ---
 
