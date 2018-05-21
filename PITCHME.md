@@ -26,7 +26,7 @@
 @title[Tujuan]
 
 ### Tujuan Pengembangan <span class="gold">JAWARA e-Gov</span>
-- Mempermudah masyarakat dan Pegawai PemProv dalam mencari informasi |
+- Mempermudah masyarakat dan Pegawai PemProv dalam mencari informasi. |
 - Untuk satu pintu bagi semua aplikasi OPD di Pemerintahan Provinsi Banten. |
 
 ---
@@ -138,4 +138,4 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 #### SEKIAN
 ## Dinas <span class="gold">KominfoST</span>
 ### &
-### Developer<span class="gold">Banten</span>
+### Developer <span class="gold">Banten</span>
