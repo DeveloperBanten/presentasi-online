@@ -51,7 +51,7 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 
 ![Tampilan Home1](/assets/image/awal-jawara-egov1.png)
 
-<span style="font-size:0.6em; color:gray">Lajut.</span>
+<span style="font-size:0.6em; color:gray">Dashboard Jawara e-Gov</span>
 @fa[arrow-right]
 
 ---
@@ -134,8 +134,78 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 <span style="font-size:0.6em; color:gray">Press Release</span>
 
 ---
+### Tampilan Android <span class="gold">JAWARA e-Gov</span>
+
+Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
+
+<span style="font-size:0.6em; color:gray">Tampilan Android</span>
+@fa[arrow-down]
+
++++
+
+@title[Tampilan Dashboard Android JAWARA e-Gov]
+
+## Dashboard Android <span class="gold">JAWARA e-Gov</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Dashboard Android<span class="gold">JAWARA e-Gov</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home Android](/assets/image/dashboard1.jpeg)
+
+<span style="font-size:0.6em; color:gray">Dashboard Android</span>
+@fa[arrow-right]
+
+---
+@title[Tampilan Aplikasi Pemerintah]
+
+## Aplikasi Pemerintah di <span class="gold">JAWARA e-Gov</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Apliaksi Pemerintah <span class="gold">JAWARA e-Gov</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Aplikasi Pemerintah](/assets/image/aplikasi-pemerintah1.jpeg)
+
+<span style="font-size:0.6em; color:gray">Aplikasi Pemerintah</span>
+@fa[arrow-right]
+
+---
+
+@title[Tampilan Aplikasi Publik]
+
+## Aplikasi Publik di <span class="gold">JAWARA e-Gov</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Apliaksi Publik <span class="gold">JAWARA e-Gov</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Aplikasi Publik](/assets/image/aplikasi-publik1.jpeg)
+
+<span style="font-size:0.6em; color:gray">Apliaksi Publik</span>
+@fa[arrow-right]
+
+---
+
+@title[Tampilan Jelajah Banten]
+
+## Jelajah Banten di <span class="gold">JAWARA e-Gov</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Jelajah Banten <span class="gold">JAWARA e-Gov</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Jelajah Banten](/assets/image/jelajah-banten.jpeg)
+
+<span style="font-size:0.6em; color:gray">Jelajah Banten</span>
+
+---
 
 #### SEKIAN
-#### Dinas <span class="gold">Komunikasi Informatika </span>
-#### Statistik
-#### dan <span class="gold">Persandian</span>
+#### Dinas <span class="gold">Komunikasi Informatika Statistik</span>
+#### dan
+#### <span class="gold">Persandian</span>
