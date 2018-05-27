@@ -152,7 +152,7 @@ Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
 
 +++
 
-![Tampilan Home Android](/assets/image/dashboard1.jpeg)
+![Tampilan Home Android](/assets/image/dashboard1.png)
 
 <span style="font-size:0.6em; color:gray">Dashboard Android</span>
 @fa[arrow-right]
@@ -167,7 +167,7 @@ Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
 
 +++
 
-![Tampilan Aplikasi Pemerintah](/assets/image/aplikasi-pemerintah1.jpeg)
+![Tampilan Aplikasi Pemerintah](/assets/image/aplikasi-pemerintah1.png)
 
 <span style="font-size:0.6em; color:gray">Aplikasi Pemerintah</span>
 @fa[arrow-right]
@@ -183,7 +183,7 @@ Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
 
 +++
 
-![Tampilan Aplikasi Publik](/assets/image/aplikasi-publik1.jpeg)
+![Tampilan Aplikasi Publik](/assets/image/aplikasi-publik1.png)
 
 <span style="font-size:0.6em; color:gray">Apliaksi Publik</span>
 @fa[arrow-right]
@@ -199,7 +199,7 @@ Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
 
 +++
 
-![Tampilan Jelajah Banten](/assets/image/jelajah-banten1.jpeg)
+![Tampilan Jelajah Banten](/assets/image/jelajah-banten.png)
 
 <span style="font-size:0.6em; color:gray">Jelajah Banten</span>
 
