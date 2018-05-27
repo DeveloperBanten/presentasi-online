@@ -199,7 +199,7 @@ Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
 
 +++
 
-![Tampilan Jelajah Banten](/assets/image/jelajah-banten.jpeg)
+![Tampilan Jelajah Banten](/assets/image/jelajah-banten1.jpeg)
 
 <span style="font-size:0.6em; color:gray">Jelajah Banten</span>
 
