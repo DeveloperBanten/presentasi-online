@@ -134,6 +134,16 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 <span style="font-size:0.6em; color:gray">Press Release</span>
 
 ---
+
+### Android <span class="gold">JAWARA e-Gov</span>
+
+Untuk mempermudah masyarakat dalam mengakses aplikasi JAWARA e-Gov, masyarakat dapat mengunduh aplikasi JAWARA e-gov di playstore dengan link berikut ini https://play.google.com/store/apps/details?id=com.bantenprov.jawaraegov
+
+<span style="font-size:0.6em; color:gray">Android JAWARA e-Gov</span>
+@fa[arrow-down]
+
++++
+
 ### Tampilan Android <span class="gold">JAWARA e-Gov</span>
 
 Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
@@ -152,7 +162,7 @@ Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
 
 +++
 
-![Tampilan Home Android](/assets/image/dashboard1.png)
+![Tampilan Home Android](/assets/image/dahboard3.jpeg)
 
 <span style="font-size:0.6em; color:gray">Dashboard Android</span>
 @fa[arrow-right]
