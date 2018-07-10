@@ -53,11 +53,11 @@
 
 +++
 
-![Tampilan Home1](/assets/image/jawaraand-update1.jpeg)
+![Tampilan Home1](/assets/image/jawaraand-update1.png)
 
 +++
 
-![Tampilan Home1](/assets/image/jawaraand-update2.jpeg)
+![Tampilan Home1](/assets/image/jawaraand-update2.png)
 
 ---
 
@@ -199,11 +199,11 @@ Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
 
 +++
 
-![Tampilan Home Android](/assets/image/jawaraand-update1.jpeg)
+![Tampilan Home Android](/assets/image/jawaraand-update1.png)
 
 +++
 
-![Tampilan Home Android](/assets/image/jawaraand-update2.jpeg)
+![Tampilan Home Android](/assets/image/jawaraand-update2.png)
 
 <span style="font-size:0.6em; color:gray">Dashboard Android</span>
 @fa[arrow-right]
