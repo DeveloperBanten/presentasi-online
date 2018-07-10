@@ -1,25 +1,19 @@
 @title[Introduction]
 
-### Portal Pemerintahan Provinsi Banten
-## <span class="gold">JAWARA e-Gov</span>
-### Menu berbagai aplikasi OPD
+#### Portal Pemerintahan Provinsi Banten
+### BANTEN SATU DATA
+### <span class="gold">JAWARA e-Gov</span>
+#### Terpusatnya Seluruh Aplikasi Provinsi Banten
 ---
 
-@title[JAWARA e-gov]
+@title[BANTEN SATU DATA JAWARA e-gov]
 
-## <span class="gold">JAWARA e-Gov</span>
+### BANTEN SATU DATA <span class="gold">JAWARA e-Gov</span>
 
-- JAWARA e-Gov adalah aplikasi portal Pemerintah Provinsi Banten yang memudahkan masyarakat dalam mencari informasi. |
-- Aplikasi ini dilengkapi dengan menu berbagai aplikasi OPD yang terdapat di Pemerintahan Provinsi Banten. |
-
----
-
-@title[Features]
-
-## <span class="gold">JAWARA e-Gov</span> Features
-- Mudah digunakan oleh masyarakat banyak. |
-- Tampilan yang sederhana yang mudah di fahami oleh end user. |
-- Memudahkan dalam mencari informasi di Pemerintahan Provinsi Banten. |
+- Satu Aplikasi untuk link seluruh aplikasi OPD Provinsi Banten. |
+- Satu API Management dalam API Manager. |
+- Satu layar android untuk akses data aplikasi seluruh Banten. |
+- Kemudahan akses data dalam satu system informasi. |
 
 ---
 
@@ -28,10 +22,52 @@
 ### Tujuan Pengembangan <span class="gold">JAWARA e-Gov</span>
 - Mempermudah masyarakat dan Pegawai PemProv dalam mencari informasi. |
 - Untuk satu pintu bagi semua aplikasi OPD di Pemerintahan Provinsi Banten. |
+- Alat monitoring data terbaru pada setiap aplikasi pemerintahan Provinsi Banten. |
+- Menyajikan data terbaru dari tiap-tiap aplikasi yang terdapat di pemerintahan Provinsi Banten. |
 
 ---
 
-### Tampilan Aplikasi <span class="gold">JAWARA e-Gov</span>
+@title[Features]
+
+### BANTEN SATU DATA <span class="gold">JAWARA e-Gov</span>
+### Features
+- Menyajikan data dari semua aplikasi yang sudah terdapat API.|
+- Memanage API seluruh aplikasi dalam satu aplikasi API Manager. |
+- Menampilkan link aplikasi yang terdapat di pemerintahan Provinsi Banten dalam satu system aplikasi berbasis web dan android.|
+
++++
+
+![Tampilan Home1](/assets/image/awal-jawara-egov1.png)
+
++++
+
+![Tampilan Home1](/assets/image/jawara-update1.png)
+
++++
+
+![Tampilan Home1](/assets/image/jawara-update2.png)
+
++++
+
+![Tampilan Home1](/assets/image/jawara-update3.png)
+
++++
+
+![Tampilan Home1](/assets/image/jawaraand-update1.jpeg)
+
++++
+
+![Tampilan Home1](/assets/image/jawaraand-update2.jpeg)
+
+---
+
+# TAMPILAN
+## BANTEN SATU DATA <span class="gold">JAWARA e-Gov</span>
+
+---
+
+### Tampilan Website
+### BANTEN SATU DATA <span class="gold">JAWARA e-Gov</span>
 
 Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://dev2018.bantenprov.go.id/ sehingga akan menampilkan tampilan seperti ini
 
@@ -135,7 +171,8 @@ Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://
 
 ---
 
-### Android <span class="gold">JAWARA e-Gov</span>
+### Tampilan Android
+### BANTEN SATU DATA <span class="gold">JAWARA e-Gov</span>
 
 Untuk mempermudah masyarakat dalam mengakses aplikasi JAWARA e-Gov, masyarakat dapat mengunduh aplikasi JAWARA e-gov di playstore dengan link berikut ini https://play.google.com/store/apps/details?id=com.bantenprov.jawaraegov
 
@@ -155,14 +192,18 @@ Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
 
 @title[Tampilan Dashboard Android JAWARA e-Gov]
 
-## Dashboard Android <span class="gold">JAWARA e-Gov</span>
+## Beranda Android <span class="gold">JAWARA e-Gov</span>
 
-<span style="font-size:0.6em; color:gray">Tampilan Dashboard Android<span class="gold">JAWARA e-Gov</span></span>
+<span style="font-size:0.6em; color:gray">Tampilan Beranda Android<span class="gold">JAWARA e-Gov</span></span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Home Android](/assets/image/dahboard3.jpeg)
+![Tampilan Home Android](/assets/image/jawaraand-update1.jpeg)
+
++++
+
+![Tampilan Home Android](/assets/image/jawaraand-update2.jpeg)
 
 <span style="font-size:0.6em; color:gray">Dashboard Android</span>
 @fa[arrow-right]
@@ -172,7 +213,7 @@ Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
 
 ## Aplikasi Pemerintah di <span class="gold">JAWARA e-Gov</span>
 
-<span style="font-size:0.6em; color:gray">Tampilan Apliaksi Pemerintah <span class="gold">JAWARA e-Gov</span></span>
+<span style="font-size:0.6em; color:gray">Tampilan Aplikasi Pemerintah <span class="gold">JAWARA e-Gov</span></span>
 @fa[arrow-down]
 
 +++
@@ -193,7 +234,7 @@ Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
 
 +++
 
-![Tampilan Aplikasi Publik](/assets/image/aplikasi-publik1.png)
+![Tampilan Aplikasi Publik](/assets/image/apliaksi-publik1.png)
 
 <span style="font-size:0.6em; color:gray">Apliaksi Publik</span>
 @fa[arrow-right]
