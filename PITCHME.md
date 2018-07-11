@@ -33,6 +33,8 @@
 ### Features
 - Menyajikan data dari semua aplikasi yang sudah terdapat API.|
 - Memanage API seluruh aplikasi dalam satu aplikasi API Manager. |
+- Data digital yang mudah digunakan. |
+- Akses tidak terbatas ke semua data yang tersedia. |
 - Menampilkan link aplikasi yang terdapat di pemerintahan Provinsi Banten dalam satu system aplikasi berbasis web dan android.|
 
 +++
@@ -58,6 +60,13 @@
 +++
 
 ![Tampilan Home1](/assets/image/jawaraand-update2.png)
+
+---
+
+## WEBSITE BANTEN SATU DATA
+http://dev2018.bantenprov.go.id/
+
+http://yankes.bantenprov.go.id/
 
 ---
 
@@ -253,6 +262,182 @@ Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
 ![Tampilan Jelajah Banten](/assets/image/jelajah-banten.png)
 
 <span style="font-size:0.6em; color:gray">Jelajah Banten</span>
+
+---
+
+# TAMPILAN
+## YAN<span class="gold">KES</span>
+
+---
+
+### Tampilan Website
+### YAN<span class="gold">KES</span>
+
+Cara untuk mengakses tampilan YANKES dengan cara memasuki link url http://yankes.bantenprov.go.id/ sehingga akan menampilkan tampilan seperti ini
+
+<span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
+@fa[arrow-down]
+
++++
+
+@title[Tampilan Dashboard YANKES]
+
+## Dashboard YAN<span class="gold">KES</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Dashboard YAN<span class="gold">KES</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Jelajah Banten](/assets/image/yankes1.png)
+
+<span style="font-size:0.6em; color:gray">Dashboard YANKES</span>
+@fa[arrow-right]
+
+---
+
+@title[Tampilan Rumah Sakit YANKES]
+
+## Rumah Sakit YAN<span class="gold">KES</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Rumah Sakit YAN<span class="gold">KES</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Jelajah Banten](/assets/image/yankes2.png)
+
+<span style="font-size:0.6em; color:gray">Rumah Sakit YANKES</span>
+@fa[arrow-right]
+
+---
+
+@title[Tampilan Dokter YANKES]
+
+## Dokter YAN<span class="gold">KES</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Dokter YAN<span class="gold">KES</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Jelajah Banten](/assets/image/yankes3.png)
+
+<span style="font-size:0.6em; color:gray">Dokter YANKES</span>
+@fa[arrow-right]
+
+---
+
+@title[Tampilan Kamar Inap YANKES]
+
+## Kamar Inap YAN<span class="gold">KES</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Kamar Inap YAN<span class="gold">KES</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Jelajah Banten](/assets/image/yankes4.png)
+
+<span style="font-size:0.6em; color:gray">Kamar Inap YANKES</span>
+@fa[arrow-right]
+
+---
+
+### Tampilan Android
+### YAN<span class="gold">KES</span>
+
+Untuk mempermudah masyarakat dalam mengakses aplikasi YANKES, masyarakat dapat mengunduh aplikasi YANKES di playstore dengan klik url berikut ini https://play.google.com/store/apps/details?id=com.yankes
+<span style="font-size:0.6em; color:gray">Android YANKES</span>
+@fa[arrow-down]
+
++++
+
+### Tampilan Android YAN<span class="gold">KES</span>
+
+Tampilan aplikasi YANKES pada android adalah seperti dibawah ini
+
+<span style="font-size:0.6em; color:gray">Tampilan Android</span>
+@fa[arrow-down]
+
++++
+
+@title[Tampilan Dashboard Android YANKES]
+
+## Beranda Android YAN<span class="gold">KES</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Beranda Android<span class="gold">YANKES</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home Android](/assets/image/yankes-android1.png)
+
+<span style="font-size:0.6em; color:gray">Dashboard YANKES</span>
+@fa[arrow-right]
+
+---
+
+@title[Tampilan Rumah Sakit Android YANKES]
+
+## Rumah Sakit Android YAN<span class="gold">KES</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Rumah Sakit Android<span class="gold">YANKES</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home Android](/assets/image/yankes-android2.png)
+
+<span style="font-size:0.6em; color:gray">Rumah Sakit YANKES</span>
+@fa[arrow-right]
+
+---
+
+@title[Tampilan Dokter Android YANKES]
+
+## Dokter Android YAN<span class="gold">KES</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Dokter Android<span class="gold">YANKES</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home Android](/assets/image/yankes-android3.png)
+
+<span style="font-size:0.6em; color:gray">Dokter YANKES</span>
+@fa[arrow-right]
+
+---
+
+@title[Tampilan Rawat Inap Android YANKES]
+
+## Rawat Inap Android YAN<span class="gold">KES</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Rawat Inap Android<span class="gold">YANKES</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home Android](/assets/image/yankes-android4.png)
+
+<span style="font-size:0.6em; color:gray">Rawat Inap YANKES</span>
+@fa[arrow-right]
+
+---
+
+@title[Tampilan Ambulance Android YANKES]
+
+## Ambulance Android YAN<span class="gold">KES</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Ambulance Android<span class="gold">YANKES</span></span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home Android](/assets/image/yankes-android5.png)
+
+<span style="font-size:0.6em; color:gray">Ambulance YANKES</span>
 
 ---
 
