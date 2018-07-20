@@ -43,7 +43,7 @@ e-Hibah Bansos Provinsi Banten merupakan upaya Pemerintah Banten dalam rangka me
 
 @title[tahapan]
 
-#### Tahapan E-HIBAH<span class="gold">BANSOS
+#### Tahapan E-HIBAH<span class="gold">BANSOS</span>
 
  - Organisasi dan masyarakat ruang lingkup Provinsi Banten melakukan entry data proposal melalui website https://ehibahbansos.bantenprov.go.id |
  - Proposal yang masuk akan dicek kelengkapan nya oleh Organisasi Perangkat Daerah (OPD) terkait. |
@@ -57,14 +57,15 @@ e-Hibah Bansos Provinsi Banten merupakan upaya Pemerintah Banten dalam rangka me
 
 @title[Tampilan]
 
-## Tampilan E-HIBAH<span class="gold">BANSOS
+## Tampilan Website
+## E-HIBAH<span class="gold">BANSOS</span>
 
 <span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
 @fa[arrow-down]
 
 +++
 
-### Dashboard E-HIBAH<span class="gold">BANSOS
+### Dashboard E-HIBAH<span class="gold">BANSOS</span>
 
 <span style="font-size:0.6em; color:gray">Tampilan Dashboard E-HIBAHBANSOS</span>
 @fa[arrow-down]
@@ -78,7 +79,7 @@ e-Hibah Bansos Provinsi Banten merupakan upaya Pemerintah Banten dalam rangka me
 
 ---
 
-### Proposal E-HIBAH<span class="gold">BANSOS
+### Proposal E-HIBAH<span class="gold">BANSOS</span>
 
 <span style="font-size:0.6em; color:gray">Tampilan Dashboard E-HIBAHBANSOS</span>
 @fa[arrow-down]
@@ -99,7 +100,7 @@ e-Hibah Bansos Provinsi Banten merupakan upaya Pemerintah Banten dalam rangka me
 
 ---
 
-### Tentang E-HIBAH<span class="gold">BANSOS
+### Tentang E-HIBAH<span class="gold">BANSOS</span>
 
 <span style="font-size:0.6em; color:gray">Tampilan Tentang E-HIBAHBANSOS</span>
 @fa[arrow-down]
@@ -109,6 +110,91 @@ e-Hibah Bansos Provinsi Banten merupakan upaya Pemerintah Banten dalam rangka me
 ![Tampilan Home1](/assets/image/20180720_tentang-hibahbansos.png)
 
 <span style="font-size:0.6em; color:gray">Tentang E-HIBAHBANSOS</span>
+@fa[arrow-right]
+
+---
+
+## Tampilan Android
+## E-HIBAH<span class="gold">BANSOS</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
+@fa[arrow-down]
+
++++
+
+### Tampilan Dashboard E-HIBAH<span class="gold">BANSOS</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home1](/assets/image/android-dashboard.png)
+
+<span style="font-size:0.6em; color:gray">Dashboard E-HIBAHBANSOS</span>
+@fa[arrow-right]
+
+---
+
+### Tampilan Registrasi E-HIBAH<span class="gold">BANSOS</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home1](/assets/image/android-registrasi.png)
+
+<span style="font-size:0.6em; color:gray">Registrasi E-HIBAHBANSOS</span>
+@fa[arrow-right]
+
+---
+
+### Tampilan Dashboard User E-HIBAH<span class="gold">BANSOS</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home1](/assets/image/android-dashboard-user.png)
+
+<span style="font-size:0.6em; color:gray">Dashboard User E-HIBAHBANSOS</span>
+@fa[arrow-right]
+
+---
+
+### Tampilan Profile User E-HIBAH<span class="gold">BANSOS</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home1](/assets/image/android-profile.png)
+
+<span style="font-size:0.6em; color:gray">Profile User E-HIBAHBANSOS</span>
+@fa[arrow-right]
+
+---
+
+### Tampilan Proposal E-HIBAH<span class="gold">BANSOS</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home1](/assets/image/android-proposal.png)
+
+<span style="font-size:0.6em; color:gray">Proposal E-HIBAHBANSOS</span>
+@fa[arrow-down]
+
+---
+
+![Tampilan Home1](/assets/image/android-proposal-isi.png)
+
+<span style="font-size:0.6em; color:gray">Isi Proposal E-HIBAHBANSOS</span>
 
 ---
 
