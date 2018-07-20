@@ -1,258 +1,114 @@
 @title[Introduction]
 
-#### Portal Pemerintahan Provinsi Banten
-### BANTEN SATU DATA
-### <span class="gold">JAWARA e-Gov</span>
-#### Terpusatnya Seluruh Aplikasi Provinsi Banten
+## E-HIBAH<span class="gold">BANSOS</span>
+### Provinsi Banten
 ---
 
-@title[BANTEN SATU DATA JAWARA e-gov]
+@title[Ehibahbansos]
 
-### BANTEN SATU DATA <span class="gold">JAWARA e-Gov</span>
+### Apa itu E-HIBAH<span class="gold">BANSOS</span> ?
 
-- Satu Aplikasi untuk link seluruh aplikasi OPD Provinsi Banten. |
-- Satu API Management dalam API Manager. |
-- Satu layar android untuk akses data aplikasi seluruh Banten. |
-- Kemudahan akses data dalam satu system informasi. |
+e-Hibah Bansos Provinsi Banten merupakan upaya Pemerintah Provinsi Banten dalam rangka menciptakan transparansi, akuntabilitas dan integrasi pelayanan dalam pengelolaan hibah dan bantuan sosial yang bersumber dari Anggaran Pendapatan dan Belanja Daerah Provinsi Banten, mulai dari tahapan perencanaan, penganggaran, penyaluran, pelaksanaan, dan pertanggungjawaban, serta pelaporan hibah dan bantuan sosial secara komprehensif berdasarkan azas-azas pengelolaan keuangan Daerah yang baik dan benar.
 
 ---
 
-@title[Tujuan]
+@title[Penerima hibahbansos]
 
-### Tujuan Pengembangan <span class="gold">JAWARA e-Gov</span>
-- Mempermudah masyarakat dan Pegawai PemProv dalam mencari informasi. |
-- Untuk satu pintu bagi semua aplikasi OPD di Pemerintahan Provinsi Banten. |
-- Alat monitoring data terbaru pada setiap aplikasi pemerintahan Provinsi Banten. |
-- Menyajikan data terbaru dari tiap-tiap aplikasi yang terdapat di pemerintahan Provinsi Banten. |
+### Siapa saja yang berhak mendapatkan hibah bansos
+ 1. individu, keluarga, dan/atau masyarakat yang mengalami keadaan yang tidak stabil sebagai akibat dari krisis sosial, ekonomi, politik, bencana, atau fenomena alam agar dapat memenuhi kebutuhan hidup minimum. |
+ 2. lembaga non pemerintahan bidang pendidikan, keagamaan, dan bidang lain yang berperan untuk melindungi individu, kelompok, dan/atau masyarakat dari kemungkinan terjadinya resiko sosial. |
 
 ---
 
 @title[Features]
 
-### BANTEN SATU DATA <span class="gold">JAWARA e-Gov</span>
-### Features
-- Menyajikan data dari semua aplikasi yang sudah terdapat API.|
-- Memanage API seluruh aplikasi dalam satu aplikasi API Manager. |
-- Menampilkan link aplikasi yang terdapat di pemerintahan Provinsi Banten dalam satu system aplikasi berbasis web dan android.|
-
-+++
-
-![Tampilan Home1](/assets/image/awal-jawara-egov1.png)
-
-+++
-
-![Tampilan Home1](/assets/image/jawara-update1.png)
-
-+++
-
-![Tampilan Home1](/assets/image/jawara-update2.png)
-
-+++
-
-![Tampilan Home1](/assets/image/jawara-update3.png)
-
-+++
-
-![Tampilan Home1](/assets/image/jawaraand-update1.jpeg)
-
-+++
-
-![Tampilan Home1](/assets/image/jawaraand-update2.jpeg)
+### Apa saja yang dapat dilakukan melalui E-HIBAH<span class="gold">BANSOS</span> ?
+ 1. Mengirimkan proposal terkait hibah bansos dan memonitor bagaimana status proposal tersebut (apakah diterima, ditolak, sedang diverifikasi, dan sebagainya). |
+ 2. Ikut berpartisipasi dalam memonitor jalannya hibah bansos yang sudah disetujui oleh Pemerintah Provinsi Banten sehingga dapat turut memberikan masukan dan saran terkait pengelolaan hibah bansos tersebut. |
+ 3. Ayo ajukan ide kreatif kalian tanpa rasa takut akan penyelewengan dana yang diturunkan. Kita semua bersama dapat menjadi yang ahli dalam Pembangunan Provinsi Banten, Karena berani transparansi itu JUARA! |
 
 ---
 
-# TAMPILAN
-## BANTEN SATU DATA <span class="gold">JAWARA e-Gov</span>
+@title [Tahapan]
+
+### Tahapan E-HIBAH<span class="gold">BANSOS
+
+ 1. Organisasi dan masyarakat ruang lingkup Provinsi Banten melakukan entry data proposal melalui website https://ehibahbansos.bantenprov.go.id |
+ 2. Proposal yang masuk akan dicek kelengkapan nya oleh Oragnisasi Perangkat Daerah (OPD) terkait. |
+ 3. Proposal yang sudah lengkap akan diserahkan berkasnya kepada TAPD untuk dilakukan penetapan penerima dana hibahbansos. |
+ 4. Data proposal yang sudah diverifikasi oleh TAPD akan diinput oleh OPD terkait untuk diperlihatkan kedalam aplikasi e-Hibahbansos. |
 
 ---
 
-### Tampilan Website
-### BANTEN SATU DATA <span class="gold">JAWARA e-Gov</span>
+@title [Tampilan]
 
-Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://dev2018.bantenprov.go.id/ sehingga akan menampilkan tampilan seperti ini
+## Tampilan E-HIBAH<span class="gold">BANSOS
 
 <span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
 @fa[arrow-down]
 
 +++
 
-@title[Tampilan Dashboard JAWARA e-Gov]
+### Dashboard E-HIBAH<span class="gold">BANSOS
 
-## Dashboard <span class="gold">JAWARA e-Gov</span>
-
-<span style="font-size:0.6em; color:gray">Tampilan Dashboard <span class="gold">JAWARA e-Gov</span></span>
+<span style="font-size:0.6em; color:gray">Tampilan Dashboard E-HIBAHBANSOS</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Home1](/assets/image/awal-jawara-egov1.png)
+![Tampilan Home1](/assets/image/20180720_dashboard-hibahbansos.png)
 
-<span style="font-size:0.6em; color:gray">Dashboard Jawara e-Gov</span>
+<span style="font-size:0.6em; color:gray">Dashboard E-HIBAHBANSOS</span>
 @fa[arrow-right]
 
 ---
 
-@title[Menu Profil Provinsi]
+### Proposal E-HIBAH<span class="gold">BANSOS
 
-## Menu <span class="gold">Profil Provinsi</span>
-
-<span style="font-size:0.6em; color:gray">Tampilan Profil Provinsi</span>
+<span style="font-size:0.6em; color:gray">Tampilan Dashboard E-HIBAHBANSOS</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Menu Profil Banten](/assets/image/profil-provinsi1.png)
+![Tampilan Home1](/assets/image/20180720_proposal-hibahbansos1.png)
 
-<span style="font-size:0.6em; color:gray">Profil Provinsi.</span>
+<span style="font-size:0.6em; color:gray">Proposal E-HIBAHBANSOS</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home1](/assets/image/20180720_proposal-hibahbansos2.png)
+
+<span style="font-size:0.6em; color:gray">Proposal E-HIBAHBANSOS</span>
 @fa[arrow-right]
 
 ---
 
-@title[Menu Profil Pemerintah]
+### Tentang E-HIBAH<span class="gold">BANSOS
 
-## Menu <span class="gold">Profil Pemerintah</span>
-
-<span style="font-size:0.6em; color:gray">Tampilan Profil Pemerintah</span>
+<span style="font-size:0.6em; color:gray">Tampilan Tentang E-HIBAHBANSOS</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Lihat Rumah Sakit](/assets/image/profil-pemerintah1.png)
+![Tampilan Home1](/assets/image/20180720_tentang-hibahbansos.png)
 
-<span style="font-size:0.6em; color:gray">Profil Pemerintah</span>
+<span style="font-size:0.6em; color:gray">Tentang E-HIBAHBANSOS</span>
 @fa[arrow-right]
 
 ---
 
-@title[Menu Layanan Informasi]
+### Pengumuman E-HIBAH<span class="gold">BANSOS
 
-## Menu <span class="gold">Layanan Informasi</span>
-
-<span style="font-size:0.6em; color:gray">Tampilan Layanan Informasi</span>
+<span style="font-size:0.6em; color:gray">Tampilan Pengumuman E-HIBAHBANSOS</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Menu Layanan Informasi](/assets/image/layanan-informasi1.png)
+![Tampilan Home1](/assets/image/20180720_pengumuman-hibahbansos.png)
 
-<span style="font-size:0.6em; color:gray">Layanan Informasi</span>
+<span style="font-size:0.6em; color:gray">Pengumuman E-HIBAHBANSOS</span>
 @fa[arrow-right]
-
----
-
-@title[Tampilan Menu Dokter]
-
-## Menu <span class="gold">Informasi Pembangunan Daerah</span>
-
-<span style="font-size:0.6em; color:gray">Tampilan Informasi Pembangunan Daerah</span>
-@fa[arrow-down]
-
-+++
-
-![Tampilan menu Informasi Pembangunan Daerah](/assets/image/informasi-pembangunan-daerah1.png)
-
-<span style="font-size:0.6em; color:gray">Informasi Pembangunan Daerah</span>
-@fa[arrow-right]
-
----
-
-@title[Tampilan Menu Press Release]
-
-## Menu <span class="gold">Press Release</span>
-
-<span style="font-size:0.6em; color:gray">Tampilan Press Release</span>
-@fa[arrow-down]
-
-+++
-
-![Profile Dokter](/assets/image/press-release2.png)
-
-<span style="font-size:0.6em; color:gray">Press Release</span>
-
----
-
-### Tampilan Android
-### BANTEN SATU DATA <span class="gold">JAWARA e-Gov</span>
-
-Untuk mempermudah masyarakat dalam mengakses aplikasi JAWARA e-Gov, masyarakat dapat mengunduh aplikasi JAWARA e-gov di playstore dengan link berikut ini https://play.google.com/store/apps/details?id=com.bantenprov.jawaraegov
-
-<span style="font-size:0.6em; color:gray">Android JAWARA e-Gov</span>
-@fa[arrow-down]
-
-+++
-
-### Tampilan Android <span class="gold">JAWARA e-Gov</span>
-
-Tampilan aplikasi JAWARA e-Gov pada android adalah seperti dibawah ini
-
-<span style="font-size:0.6em; color:gray">Tampilan Android</span>
-@fa[arrow-down]
-
-+++
-
-@title[Tampilan Dashboard Android JAWARA e-Gov]
-
-## Beranda Android <span class="gold">JAWARA e-Gov</span>
-
-<span style="font-size:0.6em; color:gray">Tampilan Beranda Android<span class="gold">JAWARA e-Gov</span></span>
-@fa[arrow-down]
-
-+++
-
-![Tampilan Home Android](/assets/image/jawaraand-update1.jpeg)
-
-+++
-
-![Tampilan Home Android](/assets/image/jawaraand-update2.jpeg)
-
-<span style="font-size:0.6em; color:gray">Dashboard Android</span>
-@fa[arrow-right]
-
----
-@title[Tampilan Aplikasi Pemerintah]
-
-## Aplikasi Pemerintah di <span class="gold">JAWARA e-Gov</span>
-
-<span style="font-size:0.6em; color:gray">Tampilan Aplikasi Pemerintah <span class="gold">JAWARA e-Gov</span></span>
-@fa[arrow-down]
-
-+++
-
-![Tampilan Aplikasi Pemerintah](/assets/image/aplikasi-pemerintah1.png)
-
-<span style="font-size:0.6em; color:gray">Aplikasi Pemerintah</span>
-@fa[arrow-right]
-
----
-
-@title[Tampilan Aplikasi Publik]
-
-## Aplikasi Publik di <span class="gold">JAWARA e-Gov</span>
-
-<span style="font-size:0.6em; color:gray">Tampilan Apliaksi Publik <span class="gold">JAWARA e-Gov</span></span>
-@fa[arrow-down]
-
-+++
-
-![Tampilan Aplikasi Publik](/assets/image/apliaksi-publik1.png)
-
-<span style="font-size:0.6em; color:gray">Apliaksi Publik</span>
-@fa[arrow-right]
-
----
-
-@title[Tampilan Jelajah Banten]
-
-## Jelajah Banten di <span class="gold">JAWARA e-Gov</span>
-
-<span style="font-size:0.6em; color:gray">Tampilan Jelajah Banten <span class="gold">JAWARA e-Gov</span></span>
-@fa[arrow-down]
-
-+++
-
-![Tampilan Jelajah Banten](/assets/image/jelajah-banten.png)
-
-<span style="font-size:0.6em; color:gray">Jelajah Banten</span>
 
 ---
 
