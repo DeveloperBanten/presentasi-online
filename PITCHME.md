@@ -2,6 +2,7 @@
 
 ## E-HIBAH<span class="gold">BANSOS</span>
 ### Provinsi Banten
+##### Pengelolaan Dana Hibah dan Bantuan Sosial yang Transparansi dan Akuntabilitas
 ---
 
 @title[Ehibahbansos]
@@ -43,7 +44,7 @@ e-Hibah Bansos Provinsi Banten merupakan upaya Pemerintah Banten dalam rangka me
 #### Tahapan E-HIBAH<span class="gold">BANSOS
 
  - Organisasi dan masyarakat ruang lingkup Provinsi Banten melakukan entry data proposal melalui website https://ehibahbansos.bantenprov.go.id |
- - Proposal yang masuk akan dicek kelengkapan nya oleh Oragnisasi Perangkat Daerah (OPD) terkait. |
+ - Proposal yang masuk akan dicek kelengkapan nya oleh Organisasi Perangkat Daerah (OPD) terkait. |
  
 +++
  
