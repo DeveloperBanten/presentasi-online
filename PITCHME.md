@@ -2,7 +2,9 @@
 
 ## E-HIBAH<span class="gold">BANSOS</span>
 ### Provinsi Banten
-##### Pengelolaan Dana Hibah dan Bantuan Sosial yang Transparansi dan Akuntabilitas
+
+Pengelolaan Dana <span class="gold">Hibah</span> dan <span class="gold">Bantuan Sosial</span> yang <span class="gold">Transparansi</span> dan <span class="gold">Akuntabilitas</span>
+
 ---
 
 @title[Ehibahbansos]
