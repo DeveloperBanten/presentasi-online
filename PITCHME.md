@@ -6,7 +6,7 @@
 
 @title[Ehibahbansos]
 
-### Apa itu E-HIBAH<span class="gold">BANSOS</span> ?
+#### Apa itu E-HIBAH<span class="gold">BANSOS</span> ?
 
 e-Hibah Bansos Provinsi Banten merupakan upaya Pemerintah Provinsi Banten dalam rangka menciptakan transparansi, akuntabilitas dan integrasi pelayanan dalam pengelolaan hibah dan bantuan sosial yang bersumber dari Anggaran Pendapatan dan Belanja Daerah Provinsi Banten, mulai dari tahapan perencanaan, penganggaran, penyaluran, pelaksanaan, dan pertanggungjawaban, serta pelaporan hibah dan bantuan sosial secara komprehensif berdasarkan azas-azas pengelolaan keuangan Daerah yang baik dan benar.
 
@@ -14,33 +14,45 @@ e-Hibah Bansos Provinsi Banten merupakan upaya Pemerintah Provinsi Banten dalam 
 
 @title[Penerima hibahbansos]
 
-### Siapa saja yang berhak mendapatkan hibah bansos
- 1. individu, keluarga, dan/atau masyarakat yang mengalami keadaan yang tidak stabil sebagai akibat dari krisis sosial, ekonomi, politik, bencana, atau fenomena alam agar dapat memenuhi kebutuhan hidup minimum. |
- 2. lembaga non pemerintahan bidang pendidikan, keagamaan, dan bidang lain yang berperan untuk melindungi individu, kelompok, dan/atau masyarakat dari kemungkinan terjadinya resiko sosial. |
+#### Siapa saja yang berhak mendapatkan hibah bansos
+ 1. individu, keluarga, dan/atau masyarakat yang mengalami keadaan yang tidak stabil sebagai akibat dari krisis sosial, ekonomi, politik, bencana, atau fenomena alam agar dapat memenuhi kebutuhan hidup minimum.
+ 
+ +++
+ 
+ 2. lembaga non pemerintahan bidang pendidikan, keagamaan, dan bidang lain yang berperan untuk melindungi individu, kelompok, dan/atau masyarakat dari kemungkinan terjadinya resiko sosial.
 
 ---
 
 @title[Features]
 
-### Apa saja yang dapat dilakukan melalui E-HIBAH<span class="gold">BANSOS</span> ?
- 1. Mengirimkan proposal terkait hibah bansos dan memonitor bagaimana status proposal tersebut (apakah diterima, ditolak, sedang diverifikasi, dan sebagainya). |
- 2. Ikut berpartisipasi dalam memonitor jalannya hibah bansos yang sudah disetujui oleh Pemerintah Provinsi Banten sehingga dapat turut memberikan masukan dan saran terkait pengelolaan hibah bansos tersebut. |
- 3. Ayo ajukan ide kreatif kalian tanpa rasa takut akan penyelewengan dana yang diturunkan. Kita semua bersama dapat menjadi yang ahli dalam Pembangunan Provinsi Banten, Karena berani transparansi itu JUARA! |
+#### Apa saja yang dapat dilakukan melalui E-HIBAH<span class="gold">BANSOS</span> ?
+ 1. Mengirimkan proposal terkait hibah bansos dan memonitor bagaimana status proposal tersebut (apakah diterima, ditolak, sedang diverifikasi, dan sebagainya).
+ 
+ +++
+ 
+ 2. Ikut berpartisipasi dalam memonitor jalannya hibah bansos yang sudah disetujui oleh Pemerintah Provinsi Banten sehingga dapat turut memberikan masukan dan saran terkait pengelolaan hibah bansos tersebut.
+ 
+ +++
+ 
+ 3. Ayo ajukan ide kreatif kalian tanpa rasa takut akan penyelewengan dana yang diturunkan. Kita semua bersama dapat menjadi yang ahli dalam Pembangunan Provinsi Banten, Karena berani transparansi itu JUARA!
 
 ---
 
-@title [Tahapan]
+@title[tahapan]
 
-### Tahapan E-HIBAH<span class="gold">BANSOS
+#### Tahapan E-HIBAH<span class="gold">BANSOS
 
- 1. Organisasi dan masyarakat ruang lingkup Provinsi Banten melakukan entry data proposal melalui website https://ehibahbansos.bantenprov.go.id |
- 2. Proposal yang masuk akan dicek kelengkapan nya oleh Oragnisasi Perangkat Daerah (OPD) terkait. |
- 3. Proposal yang sudah lengkap akan diserahkan berkasnya kepada TAPD untuk dilakukan penetapan penerima dana hibahbansos. |
- 4. Data proposal yang sudah diverifikasi oleh TAPD akan diinput oleh OPD terkait untuk diperlihatkan kedalam aplikasi e-Hibahbansos. |
+ - Organisasi dan masyarakat ruang lingkup Provinsi Banten melakukan entry data proposal melalui website https://ehibahbansos.bantenprov.go.id |
+ - Proposal yang masuk akan dicek kelengkapan nya oleh Oragnisasi Perangkat Daerah (OPD) terkait. |
+ 
+ +++
+ 
+ - Proposal yang sudah lengkap akan diserahkan berkasnya kepada TAPD untuk dilakukan penetapan penerima dana hibahbansos. |
+ - Data proposal yang sudah diverifikasi oleh TAPD akan diinput oleh OPD terkait untuk diperlihatkan kedalam aplikasi e-Hibahbansos. |
 
 ---
 
-@title [Tampilan]
+@title[Tampilan]
 
 ## Tampilan E-HIBAH<span class="gold">BANSOS
 
@@ -98,7 +110,8 @@ e-Hibah Bansos Provinsi Banten merupakan upaya Pemerintah Provinsi Banten dalam 
 
 ---
 
-### Pengumuman E-HIBAH<span class="gold">BANSOS
+### Pengumuman
+### E-HIBAH<span class="gold">BANSOS
 
 <span style="font-size:0.6em; color:gray">Tampilan Pengumuman E-HIBAHBANSOS</span>
 @fa[arrow-down]
