@@ -109,22 +109,6 @@ e-Hibah Bansos Provinsi Banten merupakan upaya Pemerintah Banten dalam rangka me
 ![Tampilan Home1](/assets/image/20180720_tentang-hibahbansos.png)
 
 <span style="font-size:0.6em; color:gray">Tentang E-HIBAHBANSOS</span>
-@fa[arrow-right]
-
----
-
-### Pengumuman
-### E-HIBAH<span class="gold">BANSOS
-
-<span style="font-size:0.6em; color:gray">Tampilan Pengumuman E-HIBAHBANSOS</span>
-@fa[arrow-down]
-
-+++
-
-![Tampilan Home1](/assets/image/20180720_pengumuman-hibahbansos.png)
-
-<span style="font-size:0.6em; color:gray">Pengumuman E-HIBAHBANSOS</span>
-@fa[arrow-right]
 
 ---
 
