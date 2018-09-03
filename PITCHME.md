@@ -64,7 +64,7 @@
 ---
 
 ## WEBSITE BANTEN SATU DATA
-http://dev2018.bantenprov.go.id/
+http://www.bantenprov.go.id/
 
 http://yankes.bantenprov.go.id/
 
@@ -78,7 +78,7 @@ http://yankes.bantenprov.go.id/
 ### Tampilan Website
 ### BANTEN SATU DATA <span class="gold">JAWARA e-Gov</span>
 
-Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://dev2018.bantenprov.go.id/ sehingga akan menampilkan tampilan seperti ini
+Cara untuk mengakses tampilan JAWARA e-Gov dengan cara memasuki link url http://www.bantenprov.go.id/ sehingga akan menampilkan tampilan seperti ini
 
 <span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
 @fa[arrow-down]
